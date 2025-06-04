@@ -163,7 +163,7 @@ npm --version   # v9+ recommended (or yarn)
 
 ### **1. Clone Repository**
 ```bash
-git clone https://github.com/wiredwiredwired/xlm-crowdfunding.git # Replace with your actual repository URL
+git clone https://github.com/byigitt/xlm-crowdfunding.git
 cd xlm-crowdfunding
 ```
 
